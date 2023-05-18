@@ -12,9 +12,11 @@
 }
 
 img{
-    width: 100vw;
+    width: 99vw;
 }
 a{
+    width: 84vw;
+    margin-top: -3px;
     display: block;
     background-color: darkred;
     color: white;
