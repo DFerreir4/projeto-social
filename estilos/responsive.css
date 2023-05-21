@@ -1,0 +1,8 @@
+@media(max-width: 450px){
+
+    section#rede-sociais{
+        display: flex;
+        padding: 10px;
+        
+    }
+}
