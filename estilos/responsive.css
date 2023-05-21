@@ -5,4 +5,7 @@
         padding: 10px;
         
     }
+    section#telefone{
+        display: block;
+    }
 }
